@@ -1,0 +1,13 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js web application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
